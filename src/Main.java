@@ -10,5 +10,7 @@ public class Main {
 
 abc ab = new abc(5);
         System.out.print(ab.a);
+        System.out.print(ab.b);
+
     }
 }
